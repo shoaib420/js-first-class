@@ -22,3 +22,6 @@ console.log(typeof(num))
 Number
 String
 Boolean
+
+var num = " hello abdullah 123 ";
+var num2 = "hello javascript "; 
